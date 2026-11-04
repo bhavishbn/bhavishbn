@@ -24,7 +24,7 @@ I use this space to share what I build, what I’m exploring, and the ideas I’
 </p>
 
 <p>
-  <img width="72%" src="https://streak-stats.demolab.com?user=Bhavish49&hide_border=false&background=FFFFFF&border=E1E4E8&ring=000000&fire=000000&currStreakLabel=000000&currStreakNum=000000&sideLabels=000000&sideNums=000000&dates=555555" alt="Bhavish's GitHub contribution streak" />
+  <img width="72%" src="https://streak-stats.demolab.com?user=bhavishbn&hide_border=false&background=FFFFFF&border=E1E4E8&ring=000000&fire=000000&currStreakLabel=000000&currStreakNum=000000&sideLabels=000000&sideNums=000000&dates=555555" alt="Bhavish's GitHub contribution streak" />
 </p>
 
 ---
