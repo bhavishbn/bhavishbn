@@ -3,7 +3,7 @@
 
 - 🎓 I’m studying Computer Science and Engineering.
 - 🌱 I’m currently exploring, learning, and building.
-- 💻 Take a look at [my repositories](https://github.com/Bhavish49?tab=repositories) to see my projects and experiments.
+- 💻 Take a look at [my repositories](https://github.com/bhavishbn?tab=repositories) to see my projects and experiments.
 - 🤝 I’m open to ideas, collaboration, and constructive feedback.
 
 I use this space to share what I build, what I’m exploring, and the ideas I’m working through. Every project is part of the journey.
