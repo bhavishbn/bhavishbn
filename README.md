@@ -19,8 +19,8 @@ I use this space to share what I build, what I’m exploring, and the ideas I’
 <h3 align="left">GitHub Stats</h3>
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bhavish49&show_icons=true&hide_border=false&bg_color=FFFFFF&title_color=000000&text_color=000000&icon_color=000000&border_color=E1E4E8" alt="Bhavish's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavish49&layout=compact&hide_border=false&bg_color=FFFFFF&title_color=000000&text_color=000000&border_color=E1E4E8" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bhavishbn&show_icons=true&hide_border=false&bg_color=FFFFFF&title_color=000000&text_color=000000&icon_color=000000&border_color=E1E4E8" alt="Bhavish's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavishbn&layout=compact&hide_border=false&bg_color=FFFFFF&title_color=000000&text_color=000000&border_color=E1E4E8" alt="Most used languages" />
 </p>
 
 <p>
