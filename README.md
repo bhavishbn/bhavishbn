@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bhavish B N</h1>
-<h3 align="center">CSE student at GECH Hassan, learning and building one project at a time.</h3>
+<h3 align="center">CSE student at GECH Hassan, learning and building project.</h3>
 
 - 🎓 I’m studying Computer Science and Engineering.
 - 🌱 I’m currently exploring, learning, and building.
